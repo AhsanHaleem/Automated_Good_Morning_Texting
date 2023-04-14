@@ -1,5 +1,7 @@
 # Automated Good Morning Text Messaging Program
 A Python scripted program that uses Twilio to send out a "Good morning" text message or any other automated text message to your list of friends at any time.
 
-![Messages_Screenshot](https://user-images.githubusercontent.com/29932763/232150414-a4730c43-891e-4884-bdd1-bc0ad32036a9.jpg width="200" height="800")
+<p align = "center"> 
+  <img width="200" height="800" src="https://user-images.githubusercontent.com/29932763/232150414-a4730c43-891e-4884-bdd1-bc0ad32036a9.jpg">
+</p>
 
